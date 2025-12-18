@@ -1,14 +1,7 @@
 ## About me
 
-<a href="https://linkedin.com/in/현민-정-201b05375" target="_blank">
-  <img align="left" alt="dasom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
-</a>
-
-
-<br />
-
-<h1 align="left">Hi 👋 This is Hyeonmin Jeong, a developer who codes dreams.</h1>
-<h3 align="left">I am working with the mission of change the world a better than yesterday!</h3>
+<h1 align="left">Hi 👋, This is Hyeonmin Jeong, a developer who codes dreams.</h1>
+<h3 align="left">I am workin with the mission of change the world a better than yesterday!</h3>
 
 - 📫 How to reach me **wjdgusals5143@gmail.com**
 
