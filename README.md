@@ -6,16 +6,12 @@
 
 ## 👩‍💻 About Me  
 
-🎓 I majored in **Human Intelligence and Information Engineering**, and I’m currently working as a **Front-end Developer**.  
-🌱 My long-term goal is to grow into a **Full-stack Developer**.  
+👋 Hi, I’m HyeonMin Jeong, an undergraduate student in South Korea.
 
-💬 I believe that **punctuality** and **open communication** are key to effective collaboration.  
-🤝 I aim to **successfully complete projects** through smooth teamwork and meaningful conversations with my teammates.  
-
-🔄 I’m always **open to feedback** and strive for continuous improvement.  
-🔥 My greatest strengths are **perseverance** and **a strong sense of responsibility** — when something urgent arises, I focus on solving it first before moving on to the next challenge.  
-
-🧠 Even when faced with unfamiliar problems, I take initiative to **research, learn, and solve them independently**.  
+I’m passionate about
+**Computer Graphics**
+**Physics-Based Simulation**
+**Real-Time Rendering**
 
 
 
