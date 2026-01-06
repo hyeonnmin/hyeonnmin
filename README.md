@@ -6,12 +6,12 @@
 
 ## 👩‍💻 About Me  
 
-👋 Hi, I’m HyeonMin Jeong, an undergraduate student in South Korea.
+👋 Hi, I’m **HyeonMin Jeong**, an undergraduate student in South Korea.
 
-I’m passionate about
-**Computer Graphics**
-**Physics-Based Simulation**
-**Real-Time Rendering**
+**I’m passionate about...**
+- **Computer Graphics**
+- **Physics-Based Simulation**
+- **Real-Time Rendering**
 
 
 
