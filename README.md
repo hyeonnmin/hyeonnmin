@@ -1,15 +1,58 @@
-## About me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=HYEONMIN's%20%20GITHUB&fontSize=50" />
 
-<h1 align="left">Hi 👋, This is Hyeonmin Jeong, a developer who codes dreams.</h1>
-<h3 align="left">I am workin with the mission of change the world a better than yesterday!</h3>
 
-- 📫 How to reach me **wjdgusals5143@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/%ed%98%84%eb%af%bc-%ec%a0%95-201b05375/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%ed%98%84%eb%af%bc-%ec%a0%95-201b05375/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+## 👩‍💻 About Me  
+
+🎓 I majored in **Human Intelligence and Information Engineering**, and I’m currently working as a **Front-end Developer**.  
+🌱 My long-term goal is to grow into a **Full-stack Developer**.  
+
+💬 I believe that **punctuality** and **open communication** are key to effective collaboration.  
+🤝 I aim to **successfully complete projects** through smooth teamwork and meaningful conversations with my teammates.  
+
+🔄 I’m always **open to feedback** and strive for continuous improvement.  
+🔥 My greatest strengths are **perseverance** and **a strong sense of responsibility** — when something urgent arises, I focus on solving it first before moving on to the next challenge.  
+
+🧠 Even when faced with unfamiliar problems, I take initiative to **research, learn, and solve them independently**.  
+
+
+
+## 🏫 Education
+- **Inha University** (2020.03 ~ Present)
+  - Dept. of Computer Science & Enginnering (Major)
+  - Dept. of Electronic Engineering (Double Major) 
+
+
+## 🧗🏻‍♀️ Activities 
+- **Inha University Media AI Lab. Undergraduate Researcher** (2024.09.02 ~ 2025.08.21)
+- **Inha University CGXR(Computer Graphics & XR) Club Member** (2025.09.02 ~ Present)
+
+## ✨ Projects
+- 
+
+
+
+## 🛠 Tech Stack
+<div style="display:flex;gap:10px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto"/>
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
+</div>
+
+
+
+
+## 🏆 GitHub Stats & Top Languages
+
+<div>
+  <img width="72%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeonnmin&theme=nord_dark" alt="Profile Details"/>
+  <br/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyeonnmin&theme=nord_dark" width="33%" alt="Repos Per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyeonnmin&theme=nord_dark" width="33%" alt="Stats Card"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
