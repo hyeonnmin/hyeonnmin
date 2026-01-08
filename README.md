@@ -47,7 +47,7 @@
 <div>
   <img width="72%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyeonnmin&theme=nord_dark" alt="Profile Details"/>
   <br/><br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyeonnmin&theme=nord_dark" width="33%" alt="Repos Per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hyeonnmin&theme=nord_dark" width="33%" alt="Repos Per Language"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyeonnmin&theme=nord_dark" width="33%" alt="Stats Card"/>
 </div>
 
