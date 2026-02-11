@@ -26,7 +26,20 @@
 - **Inha University CGXR(Computer Graphics & XR) Club Member** (2025.09.02 ~ Present)
 
 ## ✨ Projects
-- 
+**Research**
+- One-Pass-Boundary-Particle-Driven-Gaussian-Splatting-for-Unified-Physics-and-Rendering
+- Tech: `DirectX11`, `HLSL`, `PBD`, `3D Gaussian Splatting`
+- [[Git Repository](https://github.com/hyeonnmin/One-Pass-Boundary-Particle-Driven-Gaussian-Splatting-for-Unified-Physics-and-Rendering)]
+
+**App Service**
+- Image-to-3D Reconstruction for AR using 3D Gaussin Splatting
+- Tech: `Unity`, `AR Foundation`, `COLMAP`, `3DGS`
+- [[Git Repository](https://github.com/hyeonnmin/LumiAR)]
+
+**Shader Toy**
+- Rim-Effect [[Git Repository](https://github.com/hyeonnmin/shadertoy-rim-effect)]
+- Fresnel-Effect [[Git Repository](https://github.com/hyeonnmin/shadertoy-fresnel-effect)]
+- Bloom-Effect [[Git Repository](https://github.com/hyeonnmin/shadertoy-bloom-effect)]
 
 
 
