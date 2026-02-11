@@ -32,7 +32,7 @@
 - [[Git Repository](https://github.com/hyeonnmin/One-Pass-Boundary-Particle-Driven-Gaussian-Splatting-for-Unified-Physics-and-Rendering)]
 
 **App Service**
-- Image-to-3D Reconstruction for AR using 3D Gaussin Splatting
+- LumiAR: Image-to-3D Reconstruction for AR using 3D Gaussin Splatting
 - Tech: `Unity`, `AR Foundation`, `COLMAP`, `3DGS`
 - [[Git Repository](https://github.com/hyeonnmin/LumiAR)]
 
