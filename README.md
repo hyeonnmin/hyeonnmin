@@ -30,6 +30,7 @@
 - One-Pass-Boundary-Particle-Driven-Gaussian-Splatting-for-Unified-Physics-and-Rendering
 - Tech: `DirectX11`, `HLSL`, `PBD`, `3D Gaussian Splatting`
 - [[Git Repository](https://github.com/hyeonnmin/One-Pass-Boundary-Particle-Driven-Gaussian-Splatting-for-Unified-Physics-and-Rendering)]
+- [[영문.pdf](https://github.com/user-attachments/files/26045510/main2.pdf)]
 
 **App Service**
 - LumiAR: Image-to-3D Reconstruction for AR using 3D Gaussin Splatting
