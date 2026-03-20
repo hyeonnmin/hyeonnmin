@@ -29,12 +29,15 @@
 **Research**
 - One-Pass-Boundary-Particle-Driven-Gaussian-Splatting-for-Unified-Physics-and-Rendering
 - Tech: `DirectX11`, `HLSL`, `PBD`, `3D Gaussian Splatting`
-- [[Git Repository](https://github.com/hyeonnmin/One-Pass-Boundary-Particle-Driven-Gaussian-Splatting-for-Unified-Physics-and-Rendering)]
+- Papers: [[One-Pass Boundary-Particle-Driven Gaussian Splatting for Unified Physics and Rendering (ENG)](https://github.com/user-attachments/files/26144196/main2.pdf)] / [[One-Pass Boundary-Particle-Driven Gaussian Splatting for Unified Physics and Rendering (KOR)](https://github.com/user-attachments/files/26144217/CGF___Boundary_Particle_and_GS.6.pdf)]
+- Repository: [[Code & System Architecture](https://github.com/hyeonnmin/One-Pass-Boundary-Particle-Driven-Gaussian-Splatting-for-Unified-Physics-and-Rendering)]
 
 **App Service**
-- LumiAR: Image-to-3D Reconstruction for AR using 3D Gaussin Splatting
+- LumiAR: Image-to-3D Reconstruction for AR using 3D Gaussian Splatting
 - Tech: `Unity`, `AR Foundation`, `COLMAP`, `3DGS`
-- [[Git Repository](https://github.com/hyeonnmin/LumiAR)]
+- Documentation: [[요구사항명세서](https://github.com/user-attachments/files/26144303/_.pdf)] / [[상세설계서](https://github.com/user-attachments/files/26144306/_.pdf)] / [[최종보고서](https://github.com/user-attachments/files/26144311/_.pdf)]
+- Repository: [[Code & System Architecture](https://github.com/hyeonnmin/LumiAR)]
+
 
 **Shader Toy**
 - Rim-Effect [[Git Repository](https://github.com/hyeonnmin/shadertoy-rim-effect)]
