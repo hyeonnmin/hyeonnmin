@@ -17,7 +17,7 @@
 
 ## 🏫 Education
 - **Inha University** (2020.03 ~ Present)
-  - Dept. of Computer Science & Enginnering (Major)
+  - Dept. of Computer Science & Engineering (Major)
   - Dept. of Electronic Engineering (Double Major) 
 
 
